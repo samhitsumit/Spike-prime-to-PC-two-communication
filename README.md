@@ -98,4 +98,4 @@ The computer sends commands over Bluetooth using `pybricksdev`, while the hub re
 
 ## License
 
-MIT License
+GNU License
